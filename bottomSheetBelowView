@@ -1,0 +1,4 @@
+I faced a problem with bottom sheet. The bottom sheet was always below any view which made me do some research through the net
+and ended up with fail. But finally Android Studio suggestion helped me get out of swamp :) I used attribute 'clickable'
+for the view which was considered to be bottom sheet. But I didn't use attribute 'focusable'. That was the solution for 
+the problem. Alhamdulillah!
